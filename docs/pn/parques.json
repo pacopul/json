@@ -1,0 +1,164 @@
+{
+  "parques": [
+    {
+      "id": "1",
+      "nombre": "Parque Nacional de Aigüestortes i Estany de Sant Maurici",
+      "comunidad": "5",
+      "imagen": "https://pacopul.github.io/parquesFS/assets/parques/pn-aiguestortes-s1556525279.jpg",
+      "mapa": "https://pacopul.github.io/parquesFS/assets/parques/parque-nacional-aiguestortes_mapa-mini-cabecera.png",
+      "fondo": "https://pacopul.github.io/parquesFS/assets/parques/aigueestortes-i-estany-saint-maurici-np-c-phoenix-u275556.jpg_25397988.jpg",
+      "descripcion": "\u003Ch5\u003EEl agua como protagonista.\u003C/h5\u003E\u003Cp\u003ETodo gira alrededor del agua en este Parque Nacional al norte de Lleida. Situado en el Pirineo Central, Aigüestortes i Estany de Sant Maurici es un edén en el que ríos, arroyos, y lagos (más de 200) crean un escenario precioso donde brota la vida. Montañas de más de 3.000 metros dan forma a un paisaje de cuento en el que puedes sumergirte, casi literalmente, en la abundancia de aguas que llenan de dinamismo estas tierras.\u003C/p\u003E",
+      "likes": "0"
+    },
+    {
+      "id": "2",
+      "nombre": "Parque Nacional de Cabañeros",
+      "comunidad": "4",
+      "imagen": "https://pacopul.github.io/parquesFS/assets/parques/PN-Cabaneros-c-Turismo-CLM.jpg",
+      "mapa": "https://pacopul.github.io/parquesFS/assets/parques/parque-nacional-cabaneros_mapa-mini-cabecera.png",
+      "fondo": "https://pacopul.github.io/parquesFS/assets/parques/parques-nacionales/ciervos-pn-cabaneros-ciudad-real-s1524523349.jpg_25397988.jpg",
+      "descripcion": "\u003Ch5\u003EEl mejor ejemplo de bosque mediterráneo.\u003C/h5\u003E\u003Cp\u003ESituado en la comarca de los Montes de Toledo, entre las comunidads de Ciudad Real y Toledo, Cabañeros representa lo más variado del ecosistema mediterráneo. De la berrea otoñal del ciervo al majestuoso vuelo del águila imperial, el parque está lleno de encantos naturales. Robles, encinas y alcornoques conforman así un escenario en el que la fauna está literalmente ?en casa? y donde nosotros somos invitados de excepción.\u003C/p\u003E",
+      "likes": "0"
+    },
+    {
+      "id": "3",
+      "nombre": "Parque Nacional de Doñana",
+      "comunidad": "1",
+      "imagen": "https://pacopul.github.io/parquesFS/assets/parques/flamencos-pn-donana-s316829864.jpg",
+      "mapa": "https://pacopul.github.io/parquesFS/assets/parques/parque-nacional-donana_mapa-mini-cabecera.png",
+      "fondo": "https://pacopul.github.io/parquesFS/assets/parques/parques-nacionales/flamenco-pn-donana-s1540166342.jpg_25397988.jpg",
+      "descripcion": "\u003Ch5\u003EPaisajes cambiantes entre miles de aves.\u003C/h5\u003E\u003Cp\u003EDoñana es uno de los humedales más importantes y bellos de Europa. Además, tiene una peculiaridad que hace que este Parque Nacional sea muy especial: en una excursión de un día se pueden ver ecosistemas tan diferentes como marismas, lagunas, pinares, veras, dunas móviles, acantilados, 30 kilómetros de playas vírgenes? Todo un ?espectáculo? natural que se vuelve diferente en cada estación y que encontrarás entre las comunidads andaluzas de Huelva, Sevilla y Cádiz.\u003C/p\u003E",
+      "likes": "0"
+    },
+    {
+      "id": "4",
+      "nombre": "Parque Nacional de Garajonay",
+      "comunidad": "3",
+      "imagen": "https://pacopul.github.io/parquesFS/assets/parques/pn-garajonay-s382505632.jpg",
+      "mapa": "https://pacopul.github.io/parquesFS/assets/parques/parque-nacional-garajonay_mapa-mini-cabecera.png",
+      "fondo": "https://pacopul.github.io/parquesFS/assets/parques/parques-nacionales/pn-garajonay-s381203080.jpg_25397988.jpg",
+      "descripcion": "\u003Ch5\u003EEl embrujo de los bosques canarios.\u003C/h5\u003E\u003Cp\u003EEn la isla canaria de La Gomera te espera el Parque Nacional de Garajonay. Surcado de barrancos y repleto de bosques de laurisilva. Esta selva de origen prehistórico es la responsable del laberinto de verde en el que te sumergirás cuando entres en el parque. Un lugar fascinante que te hechizará como un escenario de cuento en el que la naturaleza es la gran protagonista.\u003C/p\u003E",
+      "likes": "0"
+    },
+    {
+      "id": "5",
+      "nombre": "Parque Nacional de la Caldera de Taburiente",
+      "comunidad": "3",
+      "imagen": "https://pacopul.github.io/parquesFS/assets/parques/pn-caldera-taburiente-la-palma-001-c-saul-santos-t-la-palma.jpg",
+      "mapa": "https://pacopul.github.io/parquesFS/assets/parques/la-palma_mapa-mini-cabecera.png",
+      "fondo": "https://pacopul.github.io/parquesFS/assets/parques/parques-nacionales/observatorio-astronomico-pn-caldera-taburiente-s388991884.jpg_25397988.jpg",
+      "descripcion": "\u003Ch5\u003EUn gran ?jardín? bajo las estrellas.\u003C/h5\u003E\u003Cp\u003EEn la isla canaria de La Palma, apodada ?La Isla Verde? te espera la Caldera de Taburiente. Llamada así por el cráter volcánico que ocupa la zona central la isla. Gracias a ella se crea un ecosistema único donde el agua produce una exuberante vegetación en la parte inferior del Parque Nacional. Un auténtico oasis en el que coexisten frondosos bosques con las impresionantes vistas que las cumbres de La Palma ofrecen, convirtiéndose así en un escenario inolvidable.\u003C/p\u003E",
+      "likes": "0"
+    },
+    {
+      "id": "6",
+      "nombre": "Parque Nacional de la Sierra de Guadarrama",
+      "comunidad": "6",
+      "imagen": "https://pacopul.github.io/parquesFS/assets/parques/penalara-pn-guadarrama-s1340484992.jpg",
+      "mapa": "https://pacopul.github.io/parquesFS/assets/parques/parque-nacional-sierra-guadarrama_mapa-mini-cabecera.png",
+      "fondo": "https://pacopul.github.io/parquesFS/assets/parques/parques-nacionales/pn-guadarrama-s1570032136.jpg_25397988.jpg",
+      "descripcion": "\u003Ch5\u003ENaturaleza salvaje en el centro de España.\u003C/h5\u003E\u003Cp\u003EMontañas de más de 2.000 metros, extensos bosques y una fauna variada te esperan en el Parque Nacional de la Sierra de Guadarrama. Ubicado en las comunidads de Madrid y Segovia, este parque te ofrece la posibilidad de descubrir uno de los mejores ejemplos de naturaleza ibérica a una hora de coche de la ciudad de Madrid.\u003C/p\u003E",
+      "likes": "0"
+    },
+    {
+      "id": "7",
+      "nombre": "Parque Nacional de la Sierra de las Nieves",
+      "comunidad": "1",
+      "imagen": "https://pacopul.github.io/parquesFS/assets/parques/pn-sierra-nieves-pinsapo-malaga-s1638399934.jpg",
+      "mapa": "https://pacopul.github.io/parquesFS/assets/parques/parque-nacional-sierra-nieves_mapa-mini-cabecera.png",
+      "fondo": "https://pacopul.github.io/parquesFS/assets/parques/parques-nacionales/pn-sierra-nieves-malaga-s385234399.jpg_25397988.jpg",
+      "descripcion": "\u003Ch5\u003EPueblos blancos y naturaleza de contrastes en la comunidad de Málaga.\u003C/h5\u003E\u003Cp\u003EEn el interior de la región de Málaga (Andalucía) y muy cerca de la famosa Costa del Sol o de ciudades como Málaga y Ronda, se encuentra este Parque Nacional con paisajes tan asombrosos como la sima más profunda de Andalucía, un complejo laberinto de cuevas y galerías o cimas que alcanzan prácticamente los 2.000 metros de altura como La Torrecilla. Reconocido como Reserva de la Biosfera desde 1995, acoge hasta 1.500 tipos de plantas y el pinsapar más grande de la Península Ibérica. El pinsapo (Abies pinsapo) es una especie de abeto exclusiva a escala mundial de áreas de montaña muy concretas de Andalucía.\u003C/p\u003E",
+      "likes": "0"
+    },
+    {
+      "id": "8",
+      "nombre": "Parque Nacional de las Tablas de Daimiel",
+      "comunidad": "4",
+      "imagen": "https://pacopul.github.io/parquesFS/assets/parques/tablas-de-daimiel-s633004928.jpg",
+      "mapa": "https://pacopul.github.io/parquesFS/assets/parques/ciudad-real_mapa-mini-cabecera.png",
+      "fondo": "https://pacopul.github.io/parquesFS/assets/parques/parques-nacionales/Tablas-de-Daimiel-Laguna-PN-c-Turismo-CLM.jpg_25397988.jpg",
+      "descripcion": "\u003Ch5\u003EUn humedal prácticamente único en Europa.\u003C/h5\u003E\u003Cp\u003ERecomendación si vas a visitar este Parque: lleva contigo una cámara de fotos. Querrás tenerla a mano cuando estés caminando por las pasarelas de madera adaptadas a este humedal, uno de los ecosistemas más valiosos de toda España. Su variedad de aves, sus colores y su belleza sencilla y serena son los puntos fuertes de este Parque Nacional a solo 35 minutos en coche de la turística localidad de Almagro, en la comunidad de Ciudad Real.\u003C/p\u003E",
+      "likes": "0"
+    },
+    {
+      "id": "9",
+      "nombre": "Parque Nacional de los Picos de Europa",
+      "comunidad": "10",
+      "imagen": "https://pacopul.github.io/parquesFS/assets/parques/camaleno-cantabria-c-mathew-macquarrie-u91468.jpg",
+      "mapa": "https://pacopul.github.io/parquesFS/assets/parques/parque-nacional-picos-europa_mapa-mini-cabecera.png",
+      "fondo": "https://pacopul.github.io/parquesFS/assets/parques/parques-nacionales/pn-picos-europa-c-alejandro-luengo-u-yxlLJh35N0c.jpg_25397988.jpg",
+      "descripcion": "\u003Ch5\u003ELas montañas y bosques del oso pardo.\u003C/h5\u003E\u003Cp\u003ECompartido por las comunidads de Asturias, Cantabria y León, el Parque Nacional de los Picos de Europa es el ejemplo perfecto del ecosistema atlántico. Repleto de robledales y hayedos, el Parque toma su nombre de las impresionantes formaciones rocosas que aquí existen. Además es el hogar de dos de los más emblemáticos animales que viven en España: el oso pardo y el lobo ibérico? pero aún hay mucho más.\u003C/p\u003E",
+      "likes": "0"
+    },
+    {
+      "id": "10",
+      "nombre": "Parque Nacional de Monfragüe",
+      "comunidad": "7",
+      "imagen": "https://pacopul.github.io/parquesFS/assets/parques/pn-monfrague-s720670816.jpg",
+      "mapa": "https://pacopul.github.io/parquesFS/assets/parques/parque-nacional-monfrague_mapa-mini-cabecera.png",
+      "fondo": "https://pacopul.github.io/parquesFS/assets/parques/parques-nacionales/buitre-pn-monfrague-s216595789.jpg_25397988.jpg",
+      "descripcion": "\u003Ch5\u003EUno de los últimos ecosistemas vírgenes de Europa.\u003C/h5\u003E\u003Cp\u003ELa unión de los ríos Tajo y Tiétar en la zona de Cáceres ha creado estos paisajes de encinas, alcornoques, suaves montañas y enormes rocas que son el hogar de una de las mayores colonias de buitre negro del mundo. El único Parque Nacional de Extremadura se ha convertido así en uno de los mejores lugares de España para observar aves. Pero además de seguir el vuelo de las grandes rapaces, podrás presenciar la berrea en otoño, asomarte a sus miradores, subir a la torre de un castillo? Bienvenido al lugar al que los romanos bautizaron como Monsfragorum: monte fragoso.\u003C/p\u003E",
+      "likes": "0"
+    },
+    {
+      "id": "11",
+      "nombre": "Parque Nacional de Ordesa y Monte Perdido",
+      "comunidad": "2",
+      "imagen": "https://pacopul.github.io/parquesFS/assets/parques/vistas-pn-ordesa-monte-perdido-s160022267.jpg",
+      "mapa": "https://pacopul.github.io/parquesFS/assets/parques/parque-nacional-ordesa-monte-perdido_mapa-mini-cabecera.png",
+      "fondo": "https://pacopul.github.io/parquesFS/assets/parques/parques-nacionales/rio-arazas-pn-ordesa-monte-perdido-s1534964276.jpg_25397988.jpg",
+      "descripcion": "\u003Ch5\u003ELa llamada de la naturaleza a 3.000 metros de altura.¡\u003C/h5\u003E\u003Cp\u003EAl norte de Huesca, en el Pirineo aragonés, los amantes de la alta montaña disfrutarán de un Parque Nacional único en España: el de Ordesa y Monte Perdido.  Cuatro valles (Añisclo, Escueta, Ordesa y Picuaín) y un pico, el Monte Perdido, se convierten así en un escenario de película en el que conviven diferentes ecosistemas. Un paraíso natural en el que encontramos prados, enormes bosques, increíbles gargantas, glaciares, nieves perpetuas y un singular paisaje kárstico forjado durante miles de años.\u003C/p\u003E",
+      "likes": "0"
+    },
+    {
+      "id": "12",
+      "nombre": "Parque Nacional de Sierra Nevada",
+      "comunidad": "1",
+      "imagen": "https://pacopul.github.io/parquesFS/assets/parques/trekking-sierra-nevada-c-turismo-granada.jpg",
+      "mapa": "https://pacopul.github.io/parquesFS/assets/parques/parque-nacional-sierra-nevada_mapa-mini-cabecera.png",
+      "fondo": "https://pacopul.github.io/parquesFS/assets/parques/parques-nacionales/sierra_nevada_s25990426.jpg_25397988.jpg",
+      "descripcion": "\u003Ch5\u003EAlta montaña y naturaleza exuberante en el corazón de Andalucía.\u003C/h5\u003E\u003Cp\u003EEn Granada y Almería, en el este de Andalucía, se elevan los picos más altos de la España continental. Allí se extienden a lo largo de 90 kilómetros sus montañas y la multitud de ríos y arroyos que dan vida a esta región. Poblada desde hace más de 2.000 años, Sierra Nevada es el lugar perfecto para la convivencia entre vida natural y humana en alta montaña.\u003C/p\u003E",
+      "likes": "0"
+    },
+    {
+      "id": "13",
+      "nombre": "Parque Nacional de Timanfaya",
+      "comunidad": "3",
+      "imagen": "https://pacopul.github.io/parquesFS/assets/parques/pn-timanfaya-s1403809499.jpg",
+      "mapa": "https://pacopul.github.io/parquesFS/assets/parques/parque-nacional-timanfaya_mapa-mini-cabecera.png",
+      "fondo": "https://pacopul.github.io/parquesFS/assets/parques/parques-nacionales/pn-timanfaya-c-uri-espinosa-pexels-375378.jpg_25397988.jpg",
+      "descripcion": "\u003Ch5\u003ELa tierra del fuego y los volcanes.\u003C/h5\u003E\u003Cp\u003EEn Lanzarote, la más oriental de las Islas Canarias, el Parque Nacional de Timanfaya deslumbra al viajero. Un paisaje que uno creería propio de la Luna aparece aquí, fruto de erupciones volcánicas de hace apenas 300 años. Lavas y magmas originaron así un escenario de ciencia ficción en el que, a pesar de sus inclemencias, la vida se sigue abriendo paso. Aquí te esperan caprichosas formaciones rocosas y capas de tierra teñidas de rojo, naranja y amarillo en un lugar que nunca olvidarás.\u003C/p\u003E",
+      "likes": "0"
+    },
+    {
+      "id": "14",
+      "nombre": "Parque Nacional del Teide",
+      "comunidad": "3",
+      "imagen": "https://pacopul.github.io/parquesFS/assets/parques/panoramica-teide-s197927225.jpg",
+      "mapa": "https://pacopul.github.io/parquesFS/assets/parques/parque-nacional-teide_mapa-mini-cabecera.png",
+      "fondo": "https://pacopul.github.io/parquesFS/assets/parques/parques-nacionales/pn-teide-c-bastian-pudill-u-jAjTq7nn9ik.jpg_25397988.jpg",
+      "descripcion": " \u003Ch5\u003EDescubre la vida en torno al pico más alto de España.\u003C/h5\u003E\u003Cp\u003EEn el corazón de la isla canaria de Tenerife está uno de los Parques Nacionales más visitados de toda Europa. Aquí el auténtico protagonista es el volcán Teide, el ?techo? de España, con 3.718 metros de altitud. Abre bien los ojos porque a cada paso encontrarás algo sorprendente. Entre el ecosistema que las erupciones han formado habita una impresionante fauna, sobre todo de invertebrados, pero también una flora adaptada a la alta montaña y formaciones geológicas únicas en Europa.\u003C/p\u003E",
+      "likes": "0"
+    },
+    {
+      "id": "15",
+      "nombre": "Parque Nacional Marítimo-Terrestre de Cabrera",
+      "comunidad": "9",
+      "imagen": "https://pacopul.github.io/parquesFS/assets/parques/pn-cabrera-s190306277.jpg",
+      "mapa": "https://pacopul.github.io/parquesFS/assets/parques/parque-nacional-cabrera_mapa-mini-cabecera.png",
+      "fondo": "https://pacopul.github.io/parquesFS/assets/parques/parques-nacionales/pn-cabrera-s252108361.jpg_25397988.jpg",
+      "descripcion": "\u003Ch5\u003EEl oasis azul de la posidonia.\u003C/h5\u003E\u003Cp\u003EA una hora en barco desde la isla de Mallorca te sorprenderá el Archipiélago de Cabrera. Este oasis es uno de los ejemplos mejor conservados de vida marina de todo el mar Mediterráneo. Su litoral prácticamente virgen sirve para alojar a buena parte de la flora y fauna autóctona de Baleares. Además, también descubrirás un paraíso donde las aguas azules te invitan a disfrutar de la tranquilidad y donde el tiempo parece detenerse.\u003C/p\u003E",
+      "likes": "0"
+    },
+    {
+      "id": "16",
+      "nombre": "Parque Nacional Marítimo-Terrestre de las Islas Atlánticas de Galicia",
+      "comunidad": "8",
+      "imagen": "https://pacopul.github.io/parquesFS/assets/parques/PN-islas-atlanticas-islas-cies-001-c-Pedro-Giraldez.jpg",
+      "mapa": "https://pacopul.github.io/parquesFS/assets/parques/parque-nacional-maritimo-terrestre-islas-atlanticas-galicia_mapa-mini-cabecera.png",
+      "fondo": "https://pacopul.github.io/parquesFS/assets/parques/parques-nacionales/playa-islas-cies-c-eduardo-c-u-g-dUVJYz627Ps.jpg_25397988.jpg",
+      "descripcion": "\u003Ch5\u003EUn capricho generado por el agua.\u003C/h5\u003E\u003Cp\u003ECompartido por las comunidads gallegas de A Coruña y Pontevedra, en el extremo noroeste de España, te espera un Parque Nacional en el corazón de las Rías Baixas. En este lugar donde agua dulce y agua salada confluyen se crea un ecosistema único, repleto de vida marina y terrestre. Largas playas de fina arena y un azul casi transparente serán el imán que te atrape en este paraíso terrenal llamado Islas Atlánticas.\u003C/p\u003E",
+      "likes": "0"
+    }
+  ]
+}
